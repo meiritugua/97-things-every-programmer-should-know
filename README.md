@@ -1,6 +1,8 @@
 97 Things Every Programmer Should Know
 ======
 
+> 本开源书 forked from [97 Things Every Programmer Should Know](https://github.com/97-things/97-things-every-programmer-should-know)，作者为 [97-things](https://github.com/97-things)，欢迎大家 star 原作者的 [repo](https://github.com/97-things/97-things-every-programmer-should-know)，以便获得最新更新，谢谢！
+
 *Pearls of wisdom for programmers collected from leading practitioners.*
 
 
